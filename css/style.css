@@ -64,3 +64,86 @@ body {
 .table-cetak tr td:nth-child(1) {
 	width: 30%;
 }
+
+.main-login {
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+}
+
+.box-login {
+	width: 320px;
+	min-height: 200px;
+}
+
+.box-login h2 {
+	text-align: center;
+}
+
+.btn-login {
+	padding: 5px 20px;
+	background-color: #4A99D7;
+	color: #fff;
+	border: none;
+	font-size: 16px;
+}
+
+.btn-login:hover {
+	cursor: pointer;
+	background-color: #4881AE;
+}
+
+header {
+	background-color: #fff;
+}
+
+header::after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+header h1{
+	padding: 15px 25px;
+	display: inline-block;
+	float: left;
+}
+
+header ul {
+	float: left;
+}
+
+header ul li {
+	padding: 24px 25px;
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+}
+
+.content {
+	width: 90%;
+	padding: 10px;
+	box-sizing: border-box;
+	margin: 50px auto;
+}
+
+.table {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #ddd;
+}
+
+.table tr {
+	height: 30px;
+}
+
+.table tr td {
+	padding: 5px 10px;
+}
+
+.table tr td:nth-child(1) {
+	text-align: center;
+}
