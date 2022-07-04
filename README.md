@@ -14,9 +14,9 @@ Fitur:
 Tabel database **`db_psb`** :
 ----------------
 ## Tabel Admin
-![Tabel Admin](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TableAdmin.jpg)
+![Tabel Admin](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TabelAdmin.jpg)
 ## Tabel Pendaftaran
-![Tabel Pendaftaran](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TablePendaftaran.jpg)
+![Tabel Pendaftaran](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TabelPendaftaran.jpg)
 
 ### Screenshot Aplikasi ###
 --------------
