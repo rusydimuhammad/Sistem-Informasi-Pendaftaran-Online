@@ -14,22 +14,22 @@ Fitur:
 Tabel database **`db_psb`** :
 ----------------
 ## Tabel Admin
-![Tabel Admin](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TableAdmin.jpg)
+![Tabel Admin](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TableAdmin.jpg)
 ## Tabel Pendaftaran
-![Tabel Pendaftaran](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TablePendaftaran.jpg)
+![Tabel Pendaftaran](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TablePendaftaran.jpg)
 
 ### Screenshot Aplikasi ###
 --------------
 ## Tampilan Formulir Pendaftaran
-![Tampilan Formulir Pendaftaran](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanFormulirPendaftaran.jpg)
+![Tampilan Formulir Pendaftaran](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanFormulirPendaftaran.jpg)
 ## Tampilan Pendaftaran Berhasil
-![Tampilan Pendaftaran Berhasil](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanPendaftaranBerhasil.jpg)
+![Tampilan Pendaftaran Berhasil](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanPendaftaranBerhasil.jpg)
 ## Tampilan Login
-![Tampilan Login](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanLogin.jpg)
+![Tampilan Login](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanLogin.jpg)
 ## Tampilan Halaman Admin
-![Tampilan Halaman Admin](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanHalamanAdmin.jpg)
+![Tampilan Halaman Admin](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanHalamanAdmin.jpg)
 ## Tampilan Data Peserta
-![Tampilan Data Peserta](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanDataPeserta.jpg)
+![Tampilan Data Peserta](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanDataPeserta.jpg)
 ## Tampilan Detail Data Peserta
-![Tampilan Detail Data Peserta](https://github.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanDetailDataPeserta.jpg)
+![Tampilan Detail Data Peserta](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanDetailDataPeserta.jpg)
 
